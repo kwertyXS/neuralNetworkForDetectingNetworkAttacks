@@ -126,3 +126,12 @@ dmypy.json
 
 # PyCharm
 .idea/
+
+
+# neuronetwork models
+*.h5
+models/*
+*.onnx
+
+# Dataset
+Dataset/combined_dataset.csv
